@@ -1,6 +1,6 @@
 ## How to Cite This Work
 
-**Ali Nouman (2026).**  
+Ali Nouman (2026).  
 *The Unseen Compromise: When Your Greatest Efficiency Becomes Your Biggest Liability.*  
 Practitioner research paper on AI security and governance in UK organisations.  
 GitHub Repository: https://github.com/Ali-Cybers/ai-security-unseen-compromise
